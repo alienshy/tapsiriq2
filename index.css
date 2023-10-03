@@ -1,0 +1,36 @@
+.sr {
+    margin: 15% auto;
+    border: 2px dashed;
+    padding: 40px ;
+    width: 600px;
+    height: auto;
+}
+
+.sw {
+    border: 2px solid;
+    padding: 40px ;
+    width: auto;
+    height: auto;
+    background-color:silver
+
+}
+.mm{
+    border: 2px solid black;
+    padding: 40px ;
+    width: auto;
+    height: auto;
+    background-color: white;
+    
+}
+.ss{
+    border: 2px solid black;
+    width: 400px;
+    height: 100px;
+    background-color: ;
+    
+
+}
+h5{
+    text-align: center;
+    font-size: x-large;
+}

@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cr {background-color: rgb(2, 74, 142);
+color: rgb(255, 255, 255);
+height: 100px;
+padding-left:20px;
+padding-top: 30px}
+
+.col{
+    background-color: rgb(156, 255, 255);
+    padding: 25px;
+}
+ .col .colpis{
+background-color: rgb(33, 251, 9);
+height: 200px;
+width: 700px;
+box-sizing: border-box;
+border: 1px solid rgb(3, 158, 55);
+padding: 25px;
+margin: auto;
+}
+.col .colyaxsi{
+    background-color: red;
+    border: 3px solid rgb(253, 20, 20);
+    border-radius: 10px ;
+    width: 180px;
+    height: 90px;
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+.super{
+    color: aliceblue;
+  background-color: rgb(22, 17, 50);
+  padding: 50px;
+}
